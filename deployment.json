@@ -1,0 +1,10 @@
+{
+  "_comment": "Edit this file BEFORE running the setup script. These are the facts about the VM you just created — the server cannot work them out on its own.",
+
+  "cloud": "AWS",
+  "region": "eu-north-1",
+  "zone": "eu-north-1a",
+  "machineSize": "t3.micro",
+  "owner": "MD Khalid Ansari",
+  "notes": "IIS lab, session 1"
+}
