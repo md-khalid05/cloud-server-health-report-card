@@ -10,7 +10,7 @@
 
 ---
 
-## 👀 Recruiter Quick Scan
+## 👀 Quick Scan
 
 |                     |                                       |
 | ------------------- | ------------------------------------- |
@@ -163,22 +163,33 @@ HealthCard
 ```text
 cloud-server-health-card/
 │
-├── 📄 README.md
-├── 📄 deployment.json
+├── README.md
+├── deployment.json
 │
-├── 📂 scripts/
+├── docs/
+│   └── screenshots/
+│       ├── checkpoint-1-iis.png
+│       ├── checkpoint-2-collector.png
+│       ├── checkpoint-3-scheduler.png
+│       ├── checkpoint-4-heartbeat.png
+│       ├── checkpoint-5-laptop-access.png
+│       └── checkpoint-6-verification.png
+│
+├── scripts/
 │   ├── 1-Setup-IIS.ps1
 │   ├── 2-Collect-Status.ps1
 │   ├── 3-Schedule-Collector.ps1
 │   └── 4-Verify.ps1
 │
-└── 📂 site/
+└── site/
     ├── index.html
     ├── health.txt
     ├── web.config
-    ├── 📂 css/
-    │   └── styles.css
-    └── 📂 data/
+    ├── css/
+    │   └── style.css
+    ├── js/
+    │   └── app.js
+    └── data/
         └── status.json
 ```
 
@@ -652,7 +663,7 @@ The final system:
 ## 🏁 Final Status
 
 ```text
-IIS Deployment             ✅
+IIS Deployment              ✅
 Health Collector            ✅
 Scheduled Heartbeat         ✅
 External HTTP Access        ✅
