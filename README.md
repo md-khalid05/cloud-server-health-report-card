@@ -546,9 +546,7 @@ docs/
 
 **Proof:** IIS installation, W3SVC status, HealthCard deployment and local HTTP response.
 
-![Checkpoint 1 - IIS Setup](docs/screenshots/checkpoint-1-iis1.png)
-![Checkpoint 1 - IIS Setup](docs/screenshots/checkpoint-1-iis2.png)
-![Checkpoint 1 - IIS Setup](docs/screenshots/checkpoint-1-iis3.png)
+![Checkpoint 1 - IIS Setup](docs/screenshots/checkpoint-1-iis.jpg)
 
 ---
 
@@ -556,7 +554,7 @@ docs/
 
 **Proof:** `status.json` generated with deployment and machine information.
 
-![Checkpoint 2 - Collector](docs/screenshots/checkpoint-2-collector.png)
+![Checkpoint 2 - Collector](docs/screenshots/checkpoint-2-collector.jpg)
 
 ---
 
@@ -564,7 +562,7 @@ docs/
 
 **Proof:** `HealthCard-Collector` registered as a SYSTEM scheduled task running every minute.
 
-![Checkpoint 3 - Scheduler](docs/screenshots/checkpoint-3-scheduler.png)
+![Checkpoint 3 - Scheduler](docs/screenshots/checkpoint-3-scheduler.jpg)
 
 ---
 
@@ -572,7 +570,7 @@ docs/
 
 **Proof:** Health Card displaying multiple successful collector pulses.
 
-![Checkpoint 4 - Heartbeat](docs/screenshots/checkpoint-4-heartbeat.png)
+![Checkpoint 4 - Heartbeat](docs/screenshots/checkpoint-4-heartbeat.jpg)
 
 ---
 
@@ -580,7 +578,7 @@ docs/
 
 **Proof:** Health Card loaded externally from the laptop with the browser URL visible.
 
-![Checkpoint 5 - Laptop Access](docs/screenshots/checkpoint-5-laptop-access.png)
+![Checkpoint 5 - Laptop Access](docs/screenshots/checkpoint-5-laptop-access.jpg)
 
 ---
 
@@ -588,7 +586,7 @@ docs/
 
 **Proof:** all nine automated checks passing.
 
-![Checkpoint 6 - 9/9 Verification](docs/screenshots/checkpoint-6-verification.png)
+![Checkpoint 6 - 9/9 Verification](docs/screenshots/checkpoint-6-verification.jpg)
 
 > **Tip:** Keep the screenshots tightly cropped around the useful evidence. A recruiter should be able to understand each checkpoint in a few seconds.
 
